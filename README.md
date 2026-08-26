@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-- 🔭 I’m currently working on **final year project**
-
-- 🌱 I’m currently learning **react native**
-
-- 👯 I’m looking to collaborate on **Internship Opportunity**
-
-- 💬 Ask me about **react js,react native and javascript**
+- 🌱 I’m currently learning **AI Automation**
+- 💬 Ask me about **react js,react native,Golang,Ai Automation and javascript**
 
 - 📫 How to reach me **maryamdeveloper0@gmail.com**
 
